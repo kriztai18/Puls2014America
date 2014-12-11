@@ -6,7 +6,7 @@ SVN : Subversion / Mercurial / TFS / CVS / GIT
 GITNUB
 1 Red Social de programadores
 2 Web / Apps
-3 Mucho mas facil
+3 Es sorprendente
 
 
 ******************************
