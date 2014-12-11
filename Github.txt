@@ -1,0 +1,29 @@
+FTP NO...
+
+Sistema de Control de Versiones
+SVN : Subversion / Mercurial / TFS / CVS / GIT
+
+GITNUB
+1 Red Social de programadores
+2 Web / Apps
+3 Mucho mas facil
+
+
+******************************
+
+Repositorio de codigo GITHUB (master)
+1. Multiples versiones del mismo codigo
+2. Cambios Delta
+	base de datos atomica del codigo
+3. Historial de cada archivo
+4. Multiplos personas 
+5 CULPA N
+6 Ramas (branches)
+	*master (github.com) Repo Principal
+	* master (disco duro) Repo Local
+		*master
+			----MERGE(Experimiental - master)
+		*experimental local
+	*master (servidor.com) Repo Produccion
+
+
