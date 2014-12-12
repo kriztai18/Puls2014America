@@ -1,29 +1,40 @@
-FTP NO...
+FTP
+Transmisión de archivos
+Hosting barato normal --> /public_html/ <-- FTP
+	index.php
+	images
+	leonidas.jpg
+www.fuckencio.com
 
-Sistema de Control de Versiones
-SVN : Subversion / Mercurial / TFS / CVS / GIT
+SISTEMA DE CONTROL DE VERSIONES 
 
-GITNUB
-1 Red Social de programadores
-2 Web / Apps
-3 Es sorprendente
+SVN: Subversion / Mercurial / TFS / CVS / GIT
+Github
+1. Red social de programadores
+2. Web / Apps
+3. Mucho más fácil
 
+====
 
-******************************
+Repositorio de código GITHUB (master)
 
-Repositorio de codigo GITHUB (master)
-1. Multiples versiones del mismo codigo
+1. Múltiples versiones del mismo código
 2. Cambios Delta
-	base de datos atomica del codigo
+	Base de datos atómica del código
 3. Historial de cada archivo
-4. Multiplos personas 
-5 CULPA N
-6 Ramas (branches)
-	*master (github.com) Repo Principal
-	* master (disco duro) Repo Local
-		*master
-			----MERGE(Experimiental - master)
-		*experimental local
-	*master (servidor.com) Repo Produccion
+4. Múltiples personas sobre el mismo archivo
+5. CULPA AL CULPABLE
+6. Ramas (branches)
+	* master (github.com) REPO PRINCIPAL
+	* master (disco duro) REPO LOCAL
+		* master
+			--- MERGE (experimental - master)
+		* experimental local
+	* master (servidor.com) REPO PRODUCCION
+
+
+
+
+
 
 
